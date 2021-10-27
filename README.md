@@ -5,3 +5,4 @@ Contains a basic app.py with some example routes, a static folder with a css fil
 
 Git is fun! 
 
+Started implementing my personal project 
